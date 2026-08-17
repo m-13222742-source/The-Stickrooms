@@ -1,0 +1,8 @@
+END USER LICENSE AGREEMENT (EULA)
+Copyright © 2026 [Zarif Aqil]. All rights reserved.
+
+This software is licensed, not sold. By purchasing, downloading, or playing this game for RM29, you agree to the following terms:
+
+1. LICENSE GRANT: You are granted a limited, non-exclusive, non-transferable license to install and execute this game on your personal device solely for individual entertainment.
+2. SOURCE CODE & REUSE: You are strictly prohibited from copying, modifying, redistributing, or publishing the source code, assets, 3D models, or audio of this game. 
+3. REVERSE ENGINEERING: You may not decompile, disassemble, or reverse engineer the compiled software executable.
